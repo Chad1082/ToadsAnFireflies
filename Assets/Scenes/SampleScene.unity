@@ -676,4 +676,7 @@ MonoBehaviour:
   - {fileID: 135732710}
   - {fileID: 1970546209}
   - {fileID: 389675090}
-  jumpSpeed: 0.2
+  jumpSpeed: 0.025
+  toadSprites:
+  - {fileID: -3679997264467174265, guid: c1d41ca5443e39b439f1ff3e73fd1ab9, type: 3}
+  - {fileID: -6464100125502904173, guid: c1d41ca5443e39b439f1ff3e73fd1ab9, type: 3}
